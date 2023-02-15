@@ -1,0 +1,2 @@
+ro.boot.camera.                                       u:object_r:vendor_camera_prop:s0
+ro.vendor.display.type                                u:object_r:vendor_display_prop:s0

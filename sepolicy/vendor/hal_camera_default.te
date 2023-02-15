@@ -1,0 +1,6 @@
+# QSPMHAL
+allow hal_camera_default vendor_hal_qspmhal_hwservice:hwservice_manager find;
+
+binder_call(hal_camera_default, platform_app)
+
+add_hwservice(hal_camera_default, hal_xiaomi_camera_hwservice)
