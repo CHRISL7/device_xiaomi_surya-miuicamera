@@ -49,6 +49,9 @@ vendor/lib64/vendor.xiaomi.hardware.misys@2.0.so|55326adae329775eb8147b8c476d127
 vendor/lib64/vendor.xiaomi.hardware.misys@3.0.so|dade9711628a2c670901a5f5903af80a44e53663
 vendor/lib64/vendor.xiaomi.hardware.misys@4.0.so|cd52e318ded1951c029a5857ec848afb5266ea38
 
+# System - from MIUI
+system/etc/public.libraries-xiaomi.txt|a09ea720d0d058074b728c96ccdb1a755426041c
+
 # System - from CRdroid repository
 lib64/android.hardware.camera.common@1.0.so|587fd9ac5502844a9904cdf39583ba9580578a3e
 lib64/libSNPE.so|f3ffab1527763de07abd6ea4889673574b3b1a48
