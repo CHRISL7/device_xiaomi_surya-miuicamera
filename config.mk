@@ -22,6 +22,7 @@ TARGET_USES_MIUI_CAMERA := true
 # Camera property
 PRODUCT_PRODUCT_PROPERTIES += \
     ro.com.google.lens.oem_camera_package=com.android.camera \
+    ro.miui.build.region=in \
     ro.miui.notch=1
 
 PRODUCT_SYSTEM_PROPERTIES += \
