@@ -8,7 +8,7 @@
 
 set -e
 
-DEVICE=surya-miuicamera
+DEVICE=spes-miuicamera
 VENDOR=xiaomi
 
 # Load extract_utils and do some sanity checks
@@ -49,9 +49,6 @@ done
 if [ -z "${SRC}" ]; then
     SRC="adb"
 fi
-
-function blob_fixup() {
-}
 
 # Initialize the helper
 setup_vendor "${DEVICE}" "${VENDOR}" "${ANDROID_ROOT}" true "${CLEAN_VENDOR}"

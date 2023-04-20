@@ -8,7 +8,7 @@
 
 set -e
 
-DEVICE=surya-miuicamera
+DEVICE=spes-miuicamera
 VENDOR=xiaomi
 
 # Load extract_utils and do some sanity checks

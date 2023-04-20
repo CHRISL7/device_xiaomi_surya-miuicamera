@@ -1,1 +1,1 @@
-# device_xiaomi_surya-miuicamera
+# device_xiaomi_spes-miuicamera

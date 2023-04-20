@@ -25,29 +25,23 @@ system/lib64/libmisys_jni.so|60ceb922cb750c718ea64ab7c1cd4b89a245c7c8
 system/lib64/vendor.xiaomi.hardware.misys@1.0.so|eccefde6be179f51a21cdb604c83186a508a1b9f
 system/lib64/vendor.xiaomi.hardware.misys@2.0.so|e6d3ad73d5fade6dd9d69971ef4de93d2d1da0a8
 system/lib64/vendor.xiaomi.hardware.misys@3.0.so|1c3a59312d4a846c6851e036b37be710d32fb7c5
-system/lib64/vendor.xiaomi.hardware.misys@4.0.so|da2f105c64a0f0ecae9e80928e871ac123c42ea7
 vendor/bin/hw/vendor.xiaomi.hardware.misys@1.0-service|3565360a8df875c71376d4bf354602053aaf8833
 vendor/bin/hw/vendor.xiaomi.hardware.misys@2.0-service|aeb7e699618ea098eedd8850774f73b673f17a32
 vendor/bin/hw/vendor.xiaomi.hardware.misys@3.0-service|7a084be3c42aa47bd3dfee1c1f6ec61498bfa6e1
-vendor/bin/hw/vendor.xiaomi.hardware.misys@4.0-service|b1155dffb7077e549bc4f8c5a054f7100bfb1e1b
 vendor/etc/init/vendor.xiaomi.hardware.misys@1.0-service.rc|99d376dd6f9af62f9c065e68f6873989c680aa3f
 vendor/etc/init/vendor.xiaomi.hardware.misys@2.0-service.rc|e234eba5115da4fda9e82d39634a95ddacf0c0f2
 vendor/etc/init/vendor.xiaomi.hardware.misys@3.0-service.rc|b2097e5ba297fb88d7133e4a33ba7ced416d70c0
-vendor/etc/init/vendor.xiaomi.hardware.misys@4.0-service.rc|28ab992f19bd554b685c35ad6cb3f3facece3c6a
 -vendor/etc/vintf/manifest/vendor.xiaomi.hardware.misys@1.0.xml|07adcadc52bd130b65b20803c26c6e59c4b9d49b
 -vendor/etc/vintf/manifest/vendor.xiaomi.hardware.misys@2.0.xml|beb350e77a9b9fe032cce12d93d293a24d02e256
 -vendor/etc/vintf/manifest/vendor.xiaomi.hardware.misys@3.0.xml|2071a39b08a28a1038b34df9dca171271cbd968c
--vendor/etc/vintf/manifest/vendor.xiaomi.hardware.misys@4.0.xml|554817231d8d2db5bb5a6793aa46cefd51e89c88
 vendor/lib64/hw/vendor.xiaomi.hardware.misys@1.0-impl.so|fb95edae43ff08f926456d26fb630008826f2fc0
 vendor/lib64/hw/vendor.xiaomi.hardware.misys@2.0-impl.so|f19248829c7b5e70545af89261ec66d728809f85
 vendor/lib64/hw/vendor.xiaomi.hardware.misys@3.0-impl.so|40e5d6449a5bf7600287c185ad2f9da90d936cea
-vendor/lib64/hw/vendor.xiaomi.hardware.misys@4.0-impl.so|00248abf717c6a3d1ca08eebe49dae3c9ebfdac0
 vendor/lib64/libcheckpid.so|a6d25e6454cee95c694e563ac5548a9b5981a772
 vendor/lib64/liblogwrap_vendor.so|f3e94b0a7116e20ef1fcbaae3339139251076757
 vendor/lib64/vendor.xiaomi.hardware.misys@1.0.so|d20ab76005d50db110a78c1d892e562ffe5395ba
 vendor/lib64/vendor.xiaomi.hardware.misys@2.0.so|55326adae329775eb8147b8c476d12734f12ff21
 vendor/lib64/vendor.xiaomi.hardware.misys@3.0.so|dade9711628a2c670901a5f5903af80a44e53663
-vendor/lib64/vendor.xiaomi.hardware.misys@4.0.so|cd52e318ded1951c029a5857ec848afb5266ea38
 
 # System - from MIUI
 system/etc/public.libraries-xiaomi.txt|a09ea720d0d058074b728c96ccdb1a755426041c
@@ -77,7 +71,6 @@ vendor/lib64/libflaw.so|91483575e471d5e2ccfd635dae0c154bdc997631
 # Vendor - from MIUI
 vendor/lib64/libalsautils.so|372c1c0a29efbd544b2eee6e2e58dcc498f1ce0b
 vendor/lib64/libaoa.so|18ede2be687d01cdb323e0cff2c7545e2578f21f
-vendor/lib64/libarbitrarybytes.so|fec9b1f6ca26962f8e96c5fd9b36b57f56703ced
 vendor/lib64/libcamera2ndk_vendor.so|9f19929ada6a69d37895884a28227f19831d4c93
 vendor/lib64/libeffects.so|e65bb7098f77725771b629f3f77424cb48b3247a
 vendor/lib64/libeffectsconfig.so|02142478b9431aa7dfb7907ca3d9e7cc2882e398
