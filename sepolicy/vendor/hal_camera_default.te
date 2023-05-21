@@ -1,3 +1,0 @@
-binder_call(hal_camera_default, platform_app)
-
-add_hwservice(hal_camera_default, hal_xiaomi_camera_hwservice)
