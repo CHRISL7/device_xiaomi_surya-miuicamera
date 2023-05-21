@@ -42,7 +42,7 @@ PRODUCT_COPY_FILES += \
 
 # MIUI Camera Overlay to Surya and Karna
 PRODUCT_PACKAGES += \
-    J20CMiuiCameraOverlay
+    SuryaMiuiCameraOverlay
 
 # Permissions
 PRODUCT_COPY_FILES += \
