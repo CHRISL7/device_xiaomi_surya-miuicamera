@@ -69,4 +69,4 @@ priv-app/MiuiCamera/lib/arm64/libcamera_algoup_jni.xiaomi.so|9977bceb5d14e4906d8
 priv-app/MiuiCamera/lib/arm64/libcamera_mianode_jni.xiaomi.so|5bfc999bb96aa6270a959316a7c866f6625ecc32
 
 # MiuiCamera - from LEICA
-priv-app/MiuiCamera/MiuiCamera.apk;OVERRIDES=Snap,Aperture,GoogleCameraGo,Camera2|f154f191030d99d137bf2bf0669a34ad36118be5
+priv-app/MiuiCamera/MiuiCamera.apk;OVERRIDES=Snap,Aperture,GoogleCameraGo,Camera2|056ef492eb518c0ecf0bcf6cfe794e94a40c1f43
