@@ -70,3 +70,14 @@ priv-app/MiuiCamera/lib/arm64/libcamera_mianode_jni.xiaomi.so|5bfc999bb96aa6270a
 
 # MiuiCamera - from LEICA
 priv-app/MiuiCamera/MiuiCamera.apk;OVERRIDES=Snap,Aperture,GoogleCameraGo,Camera2|056ef492eb518c0ecf0bcf6cfe794e94a40c1f43
+
+# Vendor - from MIUI
+vendor/lib64/libalsautils.so|372c1c0a29efbd544b2eee6e2e58dcc498f1ce0b
+vendor/lib64/libaoa.so|18ede2be687d01cdb323e0cff2c7545e2578f21f
+vendor/lib64/libarbitrarybytes.so|fec9b1f6ca26962f8e96c5fd9b36b57f56703ced
+vendor/lib64/libcamera2ndk_vendor.so|9f19929ada6a69d37895884a28227f19831d4c93
+vendor/lib64/libeffects.so|e65bb7098f77725771b629f3f77424cb48b3247a
+vendor/lib64/libeffectsconfig.so|02142478b9431aa7dfb7907ca3d9e7cc2882e398
+vendor/lib64/libipanat.so|52dbc84ed2d51b8478c1822c88ebd36dbf7ebbce
+vendor/lib64/liblearningmodule.so|bac32d7fd4f4bc3c5e7928133e477692252cdfaf
+vendor/lib64/libwebrtc_audio_preprocessing.so|9ecb318c3b4777725d098e3b01cbda7ff500a064
